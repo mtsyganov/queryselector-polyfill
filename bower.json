@@ -3,5 +3,28 @@
   "version": "0.0.1",
   "description": "QuerySelectorAll polyfill for very old browsers (IE6/IE7).",
   "main": "index.js",
-  "dependencies": {}
+  "authors": [
+    "Michael Tsyganov <michael@thematicmedia.de>"
+  ],
+  "dependencies": {},
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "polyfill",
+    "ie6",
+    "ie7",
+    "querySelector",
+    "querySelectorAll",
+    "old",
+    "legacy",
+    "internetexplorer"
+  ],  
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
