@@ -1,0 +1,18 @@
+{
+  "name": "queryselector-polyfill",
+  "version": "0.0.1",
+  "description": "QuerySelectorAll polyfill for very old browsers (IE6/IE7)",
+  "main": "index.js",
+  "dependencies": {},
+  "homepage": "https://github.com/mtsyganov/queryselector-polyfill",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "959e2268599e47387b412fec7b62f4918ef430ff"
+  },
+  "_source": "git://github.com/mtsyganov/queryselector-polyfill.git",
+  "_target": "~0.0.1",
+  "_originalSource": "queryselector-polyfill",
+  "_direct": true
+}

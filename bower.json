@@ -1,0 +1,7 @@
+{
+  "name": "queryselector-polyfill",
+  "version": "0.0.1",
+  "description": "QuerySelectorAll polyfill for very old browsers (IE6/IE7).",
+  "main": "index.js",
+  "dependencies": {}
+}
