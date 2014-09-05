@@ -8,7 +8,7 @@
  */
 (function () {
   if (!window.document.querySelectorAll) {
-    Object.querySelectorAll = function querySelectorAllPolyfill(r, c, i, j, a) {
+    document.querySelectorAll = document.body.querySelectorAll = Object.querySelectorAll = function querySelectorAllPolyfill(r, c, i, j, a) {
       var d=document, 
           s=d.createStyleSheet();
       a = d.all;
